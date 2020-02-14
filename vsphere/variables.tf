@@ -26,6 +26,7 @@ variable "vsphere_vm_name" {
   description = "What is the name of the VM"
 }
 
+
 variable "vsphere_vm_template" {
   description = "Where is the VM template located"
 }
